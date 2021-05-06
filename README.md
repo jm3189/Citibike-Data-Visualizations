@@ -1,2 +1,2 @@
 # Citibike-Data-Visualizations
-Data visualizations using Tableau
+Using Tableau and Citibike data, we create several visualizations that depict some findings for analysis.
